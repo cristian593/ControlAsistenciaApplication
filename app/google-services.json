@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9977655762",
+    "firebase_url": "https://controlasistenciaapplication.firebaseio.com",
+    "project_id": "controlasistenciaapplication",
+    "storage_bucket": "controlasistenciaapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9977655762:android:67b90a163ae49be1a6d80b",
+        "android_client_info": {
+          "package_name": "com.suarez.guambana.controlasistencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9977655762-0m50h3aj92gm2hqtqit449tugafj3cp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suarez.guambana.controlasistencia",
+            "certificate_hash": "852914dbddfc1b7ae50564750e496ad70d92dea1"
+          }
+        },
+        {
+          "client_id": "9977655762-qem74vmb6jc6572nlkvil8k0abjc6phe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlNFMI5gvNmnq5r6LQaOndmwvfvUqu_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9977655762-qem74vmb6jc6572nlkvil8k0abjc6phe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
